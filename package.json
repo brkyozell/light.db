@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "aes256": "^1.1.0"
+  },
+  "name": "light.db",
+  "version": "1.0.0",
+  "description": "encrypted database application.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brkyozell/light.db.git"
+  },
+  "author": "brkyozell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brkyozell/light.db/issues"
+  },
+  "homepage": "https://github.com/brkyozell/light.db#readme"
+}
